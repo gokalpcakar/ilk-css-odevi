@@ -1,0 +1,30 @@
+
+/* kırmızı renkli yazı yazmak amacıyla yazıldı. */
+.text-red {
+    
+    color: red;
+}
+
+/* yazıların ortalanması için yazılmıştır. */
+.ta-center {
+    
+    text-align: center;
+}
+
+/* etiketlere padding özelliği vererek daha güzel bir görünüm vermek amacıyla yazıldı */
+.p-10{
+
+    padding: 10px;
+}
+
+/* listenin noktalarının ortalanmasını sağlamak için bu kodu yazıyoruz. */
+.liste-icin{
+
+    list-style-position: inside;
+}
+
+/* resimlerin orjinal boyutları birbirinden farklı olduğu için genişliği 300px'e sabitledik. */
+img{
+
+    width: 300px;
+}
